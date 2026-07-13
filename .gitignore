@@ -1,0 +1,5 @@
+node_modules/
+data/
+debug.out
+*.log
+.DS_Store

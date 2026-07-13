@@ -1,0 +1,14 @@
+{
+  "name": "context-deck",
+  "version": "1.0.0",
+  "description": "Local app for writing Claude context files and tracking daily prompts.",
+  "main": "main.js",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.2.0"
+  }
+}
