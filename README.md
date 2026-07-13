@@ -1,4 +1,4 @@
-# Context Deck
+# C-Deck
 
 A small cross-platform desktop app (Electron) for writing Claude context `.md` files and tracking daily / prompt notes. Notes are stored as real markdown files in the `data/` folder next to the app.
 
